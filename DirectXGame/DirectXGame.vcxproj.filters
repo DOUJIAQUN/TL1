@@ -79,7 +79,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="GameScene.h">
-      <Filter>ソース ファイル</Filter>
+      <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
